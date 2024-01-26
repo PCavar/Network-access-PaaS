@@ -1,7 +1,7 @@
 ## Restrict network access to PaaS resources, in this case Storage account
-## with virtual network service endpoints using Terraform
+#### with virtual network service endpoints using Terraform
 
-## Topology picture added to get an overview
+#### Topology picture added to get an overview
 
 ## Deployment overview:
 #### Virtual Network - 3 subnets (subnet-private) connected with service endpoint (Microsoft.Storage)
